@@ -20,7 +20,6 @@
 </div>
 <hr/>
 ### 🔥 My Stats 
-
 <div>
   <a href="https://github.com/Hafsa-Gohar/Hafsa-Gohar">
     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-Gohar&theme=transparent" alt="Hafsa-Gohar"/>
