@@ -19,15 +19,6 @@
   </a>
 </div>
 <hr/>
-### 🔥 My Stats 
-<div>
-  <a href="https://github.com/Hafsa-Gohar/Hafsa-Gohar">
-    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-Gohar&theme=transparent" alt="Hafsa-Gohar"/>
-  </a>
-</div>
-
-<hr/>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -35,7 +26,13 @@
    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
+<hr/>
+### 🔥 My Stats 
+<div>
+  <a href="https://github.com/Hafsa-Gohar/Hafsa-Gohar">
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-Gohar&theme=transparent" alt="Hafsa-Gohar"/>
+  </a>
+</div>
 <hr/>
 
 <p align="left">
