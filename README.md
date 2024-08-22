@@ -27,7 +27,7 @@
    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 <hr/>
-<h3 align="center">🔥 My Stats </h3>
+<h3 align="left">🔥 My Stats </h3>
 <div>
   <a href="https://github.com/Hafsa-Gohar/Hafsa-Gohar">
     <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafsa-Gohar&theme=transparent" alt="Hafsa-Gohar"/>
